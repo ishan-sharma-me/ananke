@@ -10,8 +10,9 @@ The goal of ananke is allow user and AI agents to deploy production grade servic
 - Initial target is to only run locally through a single laptop and a single server.
 
 ## Current Status:
-[ ] - Create a basic machine hunter that works with intially only with Azure. Finds the approriate machine for the deployment and creates a kubernetes cluster on it.
-[ ] - A single binary for the local system and a single binary for the server.
-[ ] - Single local binary is the control plane stores state in a local database in the local system in the home directory.
-[ ] - Single server binary is the agent that runs on the server and is responsible for the deployment of the services.
-[ ] - Server binary for v1 just sets up a kubernetes cluster on the machine.
+
+- [ ] Create a basic machine hunter that works with initially only with Azure. Finds the appropriate machine for the deployment and creates a kubernetes cluster on it.
+- [ ] A single binary for the local system and a single binary for the server.
+- [ ] Single local binary is the control plane stores state in a local database in the local system in the home directory.
+- [ ] Single server binary is the agent that runs on the server and is responsible for the deployment of the services.
+- [ ] Server binary for v1 just sets up a kubernetes cluster on the machine.
