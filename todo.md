@@ -1,0 +1,1 @@
+- [ ] first quickly do go by example to be able to write proper code in go
