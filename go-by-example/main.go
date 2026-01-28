@@ -2,6 +2,13 @@ package main
 
 func main() {
 	// hello()
-	values()
+	// values()
 	// variables()
+	// constants()
+	// forExample()
+	// ifElse()
+	// switchExample()
+	// arraysExample()
+	// slicesExample()
+	mapsExample()
 }

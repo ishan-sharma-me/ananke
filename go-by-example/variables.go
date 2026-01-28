@@ -77,6 +77,9 @@ func variables() {
 	w := false
 	fmt.Println("short declaration bool:", w)
 
+	some := "thing"
+	fmt.Println("short declaration another string:", some)
+
 	// Zero values (uninitialized variables)
 	var x int
 	var y string
